@@ -1,3 +1,5 @@
+
+
 # NEURAL-STYLE-TRANSFER
 
 "Company name"=CODTECH IT SOLUTIONS
@@ -29,3 +31,7 @@ The NST model is then built by inserting content and style loss functions at spe
 The final output is a visually appealing image that artistically transforms the content image using the textures and colors of the style image. This can be used in creative fields like digital art, photo editing, game design, and filmmaking.
 
 The deliverable for this project is a Python script or Jupyter Notebook that takes in a content image and a style image, applies neural style transfer, and outputs the stylized result. The implementation uses libraries such as PyTorch, Torchvision, PIL, and Matplotlib for deep learning, image processing, and visualization.
+
+
+<img width="947" height="204" alt="image" src="https://github.com/user-attachments/assets/1214b089-de20-4d46-af53-ff944e44a77f" />
+
